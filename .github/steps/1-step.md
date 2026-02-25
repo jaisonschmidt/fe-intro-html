@@ -2,11 +2,17 @@
 
 Todo site comeca com um arquivo HTML. Vamos criar a base do seu projeto.
 
-### 📖 Theory: O que e o index.html?
+### 📖 Teoria: O que e o index.html?
 
-O navegador costuma procurar por um arquivo chamado `index.html` quando abre um site. Ele e o ponto de entrada principal do seu conteudo.
+**HTML** significa _HyperText Markup Language_ (Linguagem de Marcação de Hipertexto). É a linguagem padrão para estruturar conteúdo na web, definindo elementos como parágrafos, títulos, links e imagens.
 
-### ⌨️ Activity: Criando o arquivo
+O arquivo `index.html` é o ponto de entrada padrão de um site. Quando você acessa um domínio (exemplo: `www.meusite.com`), o servidor web automaticamente procura e exibe o arquivo `index.html`. É uma convenção universal que facilita a organização e navegação de sites.
+
+**Por que esse nome?** O termo "index" vem da ideia de "índice" - a primeira página que índica o conteúdo do site, similar ao índice de um livro.
+
+📚 **Saiba mais:** [Introdução ao HTML - MDN](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML)
+
+### ⌨️ Atividade: Criando o arquivo
 
 1. Crie um arquivo chamado `index.html` na raiz do repositorio.
 1. Deixe o arquivo vazio por enquanto.

@@ -2,11 +2,24 @@
 
 Vamos adicionar um link para um site externo.
 
-### 📖 Theory: A tag `a`
+### 📖 Teoria: A tag `a`
 
-A tag `a` cria links. O atributo `href` define o endereco.
+A tag `<a>` (de _anchor_, âncora) cria hiperlinks que conectam páginas web. É a base da navegação na internet!
 
-### ⌨️ Activity: Link para atitus.edu.br
+**Atributos principais:**
+- `href` (obrigatório) - Define o destino do link (URL)
+- `target="_blank"` - Abre o link em nova aba
+- `rel="noopener"` - Segurança ao usar `target="_blank"`
+- `title` - Texto que aparece ao passar o mouse sobre o link
+
+**Exemplo completo:**
+```html
+<a href="https://exemplo.com" target="_blank" rel="noopener">Visite o site</a>
+```
+
+📚 **Saiba mais:** [Elemento a - MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/a)
+
+### ⌨️ Atividade: Link para atitus.edu.br
 
 1. No `body`, adicione um link para `https://atitus.edu.br`.
 1. Exemplo:
