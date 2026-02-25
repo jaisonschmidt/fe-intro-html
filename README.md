@@ -1,4 +1,4 @@
-# HTML Basico: sua primeira pagina
+# HTML Basico - sua primeira pagina
 
 _Crie um documento HTML do zero e pratique as principais tags._
 

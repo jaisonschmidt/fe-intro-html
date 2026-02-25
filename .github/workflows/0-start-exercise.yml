@@ -24,7 +24,7 @@ jobs:
     name: Start Exercise
     uses: skills/exercise-toolkit/.github/workflows/start-exercise.yml@v0.8.1
     with:
-      exercise-title: "HTML Basico: sua primeira pagina"
+      exercise-title: "HTML Basico - sua primeira pagina"
       intro-message: "Vamos criar sua primeira pagina HTML passo a passo."
 
   post_next_step_content:
