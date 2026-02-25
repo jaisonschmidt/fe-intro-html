@@ -9,7 +9,7 @@ on:
       - "index.html"
 
 permissions:
-  contents: read
+  contents: write
   actions: write
   issues: write
 
